@@ -1,4 +1,4 @@
-# Recherche_Operationnelle
+# Recherche_Operationnelle ( with Python )
 
 RO_tp:
   Algorithms of : Bellman-Ford, Dijkstra, Simplexe
